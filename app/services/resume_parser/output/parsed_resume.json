@@ -1,0 +1,22 @@
+{
+    "source_file": "Ml_cv.pdf",
+    "name": "UMER FRAZ",
+    "email": "umerfraz2005@gmail.co",
+    "phone": "+92 312 4996619",
+    "skills": [
+        "Frameworks: TensorFlow, PyTorch, Scikit-learn,Pandas, NumPy, Matplotlib, Seaborn, LLMs, RAG",
+        "Databases: MySQL, MongoDB, Firebase, SQLiteCore Competencies: Data Cleaning & EDA, FeatureEngineering, Model Training & Optimization,Deployment, Performance Optimization, DebuggingDevelopment Tools: Flutter, RES"
+    ],
+    "education": [
+        "Bachelors in Computer Science — COMSATS University",
+        "MSATS University",
+        "CGPA: 3.52",
+        "2024 - Present"
+    ],
+    "experience": [
+        "Implemented a complete ML pipeline to predict heart disease presence using patient health data.",
+        "Built a regression model to predict bulldozer sale prices using historical auction data.",
+        "Created a deep learning model to classify 120+ dog breeds from images using transfer learning.",
+        "Analyzed freelancing trends and created insights for strategic gig selection."
+    ]
+}
