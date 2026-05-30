@@ -45,3 +45,5 @@ ai-job-assistant/
 ├── .gitignore
 ├── README.md
 └── venv/
+
+Resume parser was added along with blob detection.
